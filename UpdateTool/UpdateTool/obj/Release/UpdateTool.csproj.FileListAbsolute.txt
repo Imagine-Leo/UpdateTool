@@ -1,0 +1,9 @@
+C:\Users\L\Documents\Vs\UpdateTool\UpdateTool\obj\Release\UpdateTool.Form1.resources
+C:\Users\L\Documents\Vs\UpdateTool\UpdateTool\obj\Release\UpdateTool.Properties.Resources.resources
+C:\Users\L\Documents\Vs\UpdateTool\UpdateTool\obj\Release\UpdateTool.csproj.GenerateResource.Cache
+C:\Users\L\Documents\Vs\UpdateTool\UpdateTool\obj\Release\UpdateTool.csproj.CoreCompileInputs.cache
+C:\Users\L\Documents\Vs\UpdateTool\UpdateTool\bin\Release\UpdateTool.exe.config
+C:\Users\L\Documents\Vs\UpdateTool\UpdateTool\bin\Release\UpdateTool.exe
+C:\Users\L\Documents\Vs\UpdateTool\UpdateTool\bin\Release\UpdateTool.pdb
+C:\Users\L\Documents\Vs\UpdateTool\UpdateTool\obj\Release\UpdateTool.exe
+C:\Users\L\Documents\Vs\UpdateTool\UpdateTool\obj\Release\UpdateTool.pdb

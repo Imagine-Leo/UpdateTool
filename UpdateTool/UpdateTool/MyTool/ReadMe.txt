@@ -1,0 +1,1 @@
+Ê¾Àý²ÎÊý£ºwinName=upp downloadpath=zip/SharpZipLib_0860_Bin.zip updatePath=C:\Users\L\Desktop\Update\unity\Empty_Data\StreamingAssets\updateTest exeName=Empty

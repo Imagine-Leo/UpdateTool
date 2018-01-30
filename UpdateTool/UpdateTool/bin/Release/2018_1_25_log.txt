@@ -1,0 +1,8 @@
+﻿NewStartLog:2018/1/25_18:52:49
+2018/1/25_18:52:49>>>=====================Init====================
+2018/1/25_18:52:49>>>接收参数:winName=upp
+2018/1/25_18:52:49>>>接收参数:downloadpath=http://update-zip.oss-cn-beijing.aliyuncs.com/zip/test.zip
+2018/1/25_18:52:49>>>接收参数:updatePath=C:\Users\L\Desktop\Update\unity\Empty_Data\StreamingAssets\updateTest
+2018/1/25_18:52:49>>>接收参数:exeName=Empty
+2018/1/25_18:52:52>>>解压完毕
+2018/1/25_18:52:52>>>成功更新

@@ -1,0 +1,10 @@
+C:\Users\L\Documents\Vs\UpdateTool\UpdateTool\bin\Debug\UpdateTool.exe.config
+C:\Users\L\Documents\Vs\UpdateTool\UpdateTool\bin\Debug\UpdateTool.exe
+C:\Users\L\Documents\Vs\UpdateTool\UpdateTool\bin\Debug\UpdateTool.pdb
+C:\Users\L\Documents\Vs\UpdateTool\UpdateTool\obj\Debug\UpdateTool.Properties.Resources.resources
+C:\Users\L\Documents\Vs\UpdateTool\UpdateTool\obj\Debug\UpdateTool.csproj.GenerateResource.Cache
+C:\Users\L\Documents\Vs\UpdateTool\UpdateTool\obj\Debug\UpdateTool.csproj.CoreCompileInputs.cache
+C:\Users\L\Documents\Vs\UpdateTool\UpdateTool\obj\Debug\UpdateTool.exe
+C:\Users\L\Documents\Vs\UpdateTool\UpdateTool\obj\Debug\UpdateTool.pdb
+C:\Users\L\Documents\Vs\UpdateTool\UpdateTool\obj\Debug\UpdateTool.Form1.resources
+C:\Users\L\Documents\Vs\UpdateTool\UpdateTool\obj\Debug\UpdateTool.csprojResolveAssemblyReference.cache
